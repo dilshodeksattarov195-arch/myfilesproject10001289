@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "routerdetch",
+        "uuid": 5304235,
+        "checksum": "vw6y7s"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": false,
+        "mode": "debug"
+    }
+}
